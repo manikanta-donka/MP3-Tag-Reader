@@ -43,6 +43,7 @@ Mandatory Features:
 5. Should display a help screen on request (-h option).
 6. If any image embedded in file, display details about image (Type, path and size).
 7. If ID3 tag not found display proper error messages.
+ 
 Additional Features:
 1. Add an option to extract the album art (image) from file.
 2. Add an option to delete all tag data from the file.
